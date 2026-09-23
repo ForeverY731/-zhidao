@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+msedgedriver.exe
+*.log
+.vscode/
+.idea/
